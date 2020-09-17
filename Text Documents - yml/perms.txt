@@ -1,0 +1,33 @@
+permissions:
+  voidchest.boost:
+    description: Gives access to the boost command.
+  voidchest.give:
+    description: Gives access to the give command.
+  voidchest.help:
+    description: Gives access to the help command, menu.
+  voidchest.list:
+    description: Gives access to the list command.
+  voidchest.mode:
+    description: Gives access to the mode command.
+  voidchest.purge:
+    description: Gives access to the purge command.
+  voidchest.reload:
+    description: Gives access to the reload command.
+  voidchest.stats:
+    description: Gives access to the stats command.
+  voidchest.stats.other:
+    description: Gives access to the stats command for other users.
+  voidchest.toggle:
+    description: Gives access to the toggle messages command.
+  voidchest.break.*:
+    description: Gives access to break all voidchest types.
+  voidchest.place.*:
+    description: Gives access to place all voidchest types.
+  voidchest.break.*:
+    description: Gives access to break all voidchest types.
+  voidchest.break.bypass:
+    description: Gives access to break other user's voidchests.
+  voidchest.creative.bypass:
+    description: Gives access to interact with voidchests while in creative mode regardless.
+  voidchest.limit.bypass:
+    description: Allows the player to bypass the voidchest amount limit.

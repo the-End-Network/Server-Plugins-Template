@@ -1,0 +1,635 @@
+[15:46:46 INFO]: /a: a - Channel command join alias for admin
+[15:46:46 INFO]: /abandonallclaims: Deletes ALL your claims.
+[15:46:46 INFO]: /abandonclaim: Deletes a claim.
+[15:46:46 INFO]: /abandontoplevelclaim: Deletes a claim and all its subdivisions.
+[15:46:46 INFO]: /accept: Accept command for Towny
+[15:46:46 INFO]: /accesstrust: Grants a player entry to your claim(s) and use of your bed.
+[15:46:46 INFO]: /adjustbonusclaimblocks: Adds or subtracts bonus claim blocks for a player.
+[15:46:46 INFO]: /adjustbonusclaimblocksall: Adds or subtracts bonus claim blocks for all online players.
+[15:46:46 INFO]: /admin: admin - Channel command join alias for admin
+[15:46:46 INFO]: /adminclaims: Switches the shovel tool to administrative claims mode.
+[15:46:46 INFO]: /adminclaimslist: Lists all administrative claims.
+[15:46:46 INFO]: /adminvote: Admin commands for VotingPlugin
+[15:46:46 INFO]: /adminvote?: Open adminvote help
+[15:46:46 INFO]: /adminvotebackgroundupdate: Command Alias
+[15:46:46 INFO]: /adminvoteclearcache: Command Alias
+[15:46:46 INFO]: /adminvoteclearofflinerewards: Command Alias
+[15:46:46 INFO]: /adminvoteclearofflinevotes: Command Alias
+[15:46:46 INFO]: /adminvotecleartotal: Command Alias
+[15:46:46 INFO]: /adminvoteconfig: Command Alias
+[15:46:46 INFO]: /adminvoteconvertfrom: Command Alias
+[15:46:46 INFO]: /adminvoteconvertfromdata: Command Alias
+[15:46:46 INFO]: /adminvotedownload: Command Alias
+[15:46:46 INFO]: /adminvotedownloadjenkins: Command Alias
+[15:46:46 INFO]: /adminvoteforcetimechanged: Command Alias
+[15:46:46 INFO]: /adminvoteforcevoteparty: Command Alias
+[15:46:46 INFO]: /adminvotegiveall: Command Alias
+[15:46:46 INFO]: /adminvotegiveallonline: Command Alias
+[15:46:46 INFO]: /adminvotegivereward: Command Alias
+[15:46:46 INFO]: /adminvotegui: Command Alias
+[15:46:46 INFO]: /adminvotehelp: Open adminvote help
+[15:46:46 INFO]: /adminvotejavascript: Command Alias
+[15:46:46 INFO]: /adminvoteperms: Command Alias
+[15:46:46 INFO]: /adminvoteplaceholders: Command Alias
+[15:46:46 INFO]: /adminvoteplayername: Command Alias
+[15:46:46 INFO]: /adminvotepurge: Command Alias
+[15:46:46 INFO]: /adminvotereload: Command Alias
+[15:46:46 INFO]: /adminvotereport: Command Alias
+[15:46:46 INFO]: /adminvoteresyncmilestones: Command Alias
+[15:46:46 INFO]: /adminvoterewards: Command Alias
+[15:46:46 INFO]: /adminvoteservicesites: Command Alias
+[15:46:46 INFO]: /adminvotesetrequestmethod: Command Alias
+[15:46:46 INFO]: /adminvotesettotal: Command Alias
+[15:46:46 INFO]: /adminvotesetvotepartycount: Command Alias
+[15:46:46 INFO]: /adminvotesites: Command Alias
+[15:46:46 INFO]: /adminvotestatus: Command Alias
+[15:46:46 INFO]: /adminvotetest: Command Alias
+[15:46:46 INFO]: /adminvotetestreward: Command Alias
+[15:46:46 INFO]: /adminvoteupdatecheck: Command Alias
+[15:46:46 INFO]: /adminvoteuser: Command Alias
+[15:46:46 INFO]: /adminvoteusereditvalue: Command Alias
+[15:46:46 INFO]: /adminvoteuserremove: Command Alias
+[15:46:46 INFO]: /adminvoteusers: Command Alias
+[15:46:46 INFO]: /adminvoteuuid: Command Alias
+[15:46:46 INFO]: /adminvoteversion: Command Alias
+[15:46:46 INFO]: /adminvotevote: Command Alias
+[15:46:46 INFO]: /adminvotevotesite: Command Alias
+[15:46:46 INFO]: /advancedportals: The main command for the advanced portals
+[15:46:46 INFO]: /advancement: A Mojang provided command.
+[15:46:46 INFO]: /afk: Marks you as away-from-keyboard.
+[15:46:46 INFO]: /ah: Open the auction house, sell items, show current and expired listings
+[15:46:46 INFO]: /allowfire: [<world>] - Allows all fire spread temporarily
+[15:46:46 INFO]: /alltolobby: Sends everyone to the hub server!
+[15:46:46 INFO]: /antioch: A little surprise for operators.
+[15:46:46 INFO]: /ascend: Go up a floor
+[15:46:46 INFO]: /attributes: Opens the attribute menu.
+[15:46:46 INFO]: /av: Admin commands for VotingPlugin
+[15:46:46 INFO]: /awe: Displays the help for Async world edit.
+[15:46:46 INFO]: /back: Teleports you to your location prior to tp/spawn/warp.
+[15:46:46 INFO]: /backup: Runs the backup if configured.
+[15:46:46 INFO]: /balance: States the current balance of a player.
+[15:46:46 INFO]: /balancetop: Gets the top balance values.
+[15:46:46 INFO]: /ban: Bans a player.
+[15:46:46 INFO]: /ban-ip: A Mojang provided command.
+[15:46:46 INFO]: /banip: Bans an IP address.
+[15:46:46 INFO]: /banlist: A Mojang provided command.
+[15:46:46 INFO]: /basicclaims: Switches the shovel tool back to basic claims mode.
+[15:46:46 INFO]: /beezooka: Throw an exploding bee at your opponent.
+[15:46:46 INFO]: /bigtree: Spawn a big tree where you are looking.
+[15:46:46 INFO]: /biomeinfo: Get the biome of the targeted block.
+[15:46:46 INFO]: /biomelist: Gets all biomes available.
+[15:46:46 INFO]: /blacksmith: Opens the Black Smith GUI.
+[15:46:46 INFO]: /book: Allows reopening and editing of sealed books.
+[15:46:46 INFO]: /bossbar: A Mojang provided command.
+[15:46:46 INFO]: /break: Breaks the block you are looking at.
+[15:46:46 INFO]: /broadcast: Broadcasts a message to the entire server.
+[15:46:46 INFO]: /broadcastworld: Broadcasts a message to a world.
+[15:46:46 INFO]: /brush: Brushing commands
+[15:46:46 INFO]: /bukkit:help: Shows the help menu
+[15:46:46 INFO]: /burn: Set a player on fire.
+[15:46:46 INFO]: /butcher: Kill all or nearby mobs
+[15:46:46 INFO]: /buyclaimblocks: Purchases additional claim blocks with server money. Doesn't work on servers without a Vault-compatible economy plugin.
+[15:46:46 INFO]: /cancel: Cancel command for Towny
+[15:46:46 INFO]: /ceil: Go to the ceiling
+[15:46:46 INFO]: /channel: Channel leaving and joining
+[15:46:46 INFO]: /chatcolor: main command for ChatColor 2.
+[15:46:46 INFO]: /chatitemreload: Reload the ChatItemDisplay config
+[15:46:46 INFO]: /chests: Main command for the plugin
+[15:46:46 INFO]: /chunkinfo: Get information about the chunk you're inside
+[15:46:46 INFO]: /citizens: Administration commands
+[15:46:46 INFO]: /claim: Creates a land claim centered at your current location.
+[15:46:46 INFO]: /claimbook: Gives a player a manual about claiming land.
+[15:46:46 INFO]: /claimexplosions: Toggles whether explosives may be used in a specific land claim.
+[15:46:46 INFO]: /claimslist: Lists information about a player's claim blocks and claims.
+[15:46:46 INFO]: /class: Select a new class.
+[15:46:46 INFO]: /clearclipboard: Clear your clipboard
+[15:46:46 INFO]: /clearhistory: Clear your history
+[15:46:46 INFO]: /clearinventory: Clear all items in your inventory.
+[15:46:46 INFO]: /clearinventoryconfirmtoggle: Toggles whether you are prompted to confirm inventory clears.
+[15:46:46 INFO]: /clone: A Mojang provided command.
+[15:46:46 INFO]: /commandhelper: Used to gain meta information about CommandHelper
+[15:46:46 INFO]: /compass: Describes your current bearing.
+[15:46:46 INFO]: /condense: Condenses items into a more compact blocks.
+[15:46:46 INFO]: /confirm: Confirms a choice within ChatColor 2.
+[15:46:46 INFO]: /containertrust: Grants a player access to your claim's containers, crops, animals, bed, buttons, and levers.
+[15:46:46 INFO]: /crates:
+[15:46:46 INFO]: /crazyenchantments: Opens the Enchanter GUI.
+[15:46:46 INFO]: /createkit: Create a kit in game!
+[15:46:46 INFO]: /cs: Execute a CraftScript
+[15:46:46 INFO]: /customtext: Allows you to create custom text commands.
+[15:46:46 INFO]: /cycler: Block data cycler tool
+[15:46:46 INFO]: /data: A Mojang provided command.
+[15:46:46 INFO]: /datapack: A Mojang provided command.
+[15:46:46 INFO]: /debug: A Mojang provided command.
+[15:46:46 INFO]: /defaultgamemode: A Mojang provided command.
+[15:46:46 INFO]: /delchunks: Delete chunks that your selection includes
+[15:46:46 INFO]: /deletealladminclaims: Deletes all administrative claims.
+[15:46:46 INFO]: /deleteallclaims: Deletes all of another player's claims.
+[15:46:46 INFO]: /deleteclaim: Deletes the claim you're standing in, even if it's not your claim.
+[15:46:46 INFO]: /deleteclaimsinworld: Deletes all the claims in a world. Only usable at the server console.
+[15:46:46 INFO]: /deleteuserclaimsinworld: Deletes all the non-admin claims in a world. Only usable at the server console.
+[15:46:46 INFO]: /delhome: Removes a home.
+[15:46:46 INFO]: /deljail: Removes a jail.
+[15:46:46 INFO]: /delkit: Deletes the specified kit.
+[15:46:46 INFO]: /deltree: Floating tree remover tool
+[15:46:46 INFO]: /delwarp: Deletes the specified warp.
+[15:46:46 INFO]: /deny: Deny command for Towny
+[15:46:46 INFO]: /deop: A Mojang provided command.
+[15:46:46 INFO]: /deposit: Opens the currency deposit menu.
+[15:46:46 INFO]: /depth: States current depth, relative to sea level.
+[15:46:46 INFO]: /descend: Go down a floor
+[15:46:46 INFO]: /destination: Can be used to access portal destinations.
+[15:46:46 INFO]: /difficulty: A Mojang provided command.
+[15:46:46 INFO]: /discord:
+[15:46:46 INFO]: /displayenderchest: Display your ender chest
+[15:46:46 INFO]: /displayinventory: Display your inventory
+[15:46:46 INFO]: /displayitem: Display your items in chat
+[15:46:46 INFO]: /disposal: Opens a portable disposal menu.
+[15:46:46 INFO]: /easyclearchat: Shows you the help page!
+[15:46:46 INFO]: /ecc_chatenable: Enables the Chat
+[15:46:46 INFO]: /ecc_chatmute: Mute's the Chat
+[15:46:46 INFO]: /ecc_clearchat: Clears everyone's chat
+[15:46:46 INFO]: /ecc_clearmychat: Clears your chat
+[15:46:46 INFO]: /ecc_playerclearchat: Clears a speccial player's chat
+[15:46:46 INFO]: /eco: Manages the server economy.
+[15:46:46 INFO]: /effect: A Mojang provided command.
+[15:46:46 INFO]: /enchant: Enchants the item the user is holding.
+[15:46:46 INFO]: /enderchest: Lets you see inside an enderchest.
+[15:46:46 INFO]: /epichoppers: View information on this plugin.
+[15:46:46 INFO]: /epicworldgenerator: Main command for EpicWorldGenerator
+[15:46:46 INFO]: /es: I have no idea.
+[15:46:46 INFO]: /essentials: Reloads essentials.
+[15:46:46 INFO]: /essentials:info: Shows information set by the server owner.
+[15:46:46 INFO]: /essentials:remove: Removes entities in your world.
+[15:46:46 INFO]: /essentials:sell: Sells the item currently in your hand.
+[15:46:46 INFO]: /essentials:tree: Spawn a tree where you are looking.
+[15:46:46 INFO]: /execute: A Mojang provided command.
+[15:46:46 INFO]: /exp: Give, set or look at a players exp.
+[15:46:46 INFO]: /experience: A Mojang provided command.
+[15:46:46 INFO]: /exploreattributes: Explore player attributes.
+[15:46:46 INFO]: /ext: Extinguish players.
+[15:46:46 INFO]: /extendclaim: Resizes the land claim you're standing in by pushing or pulling its boundary in the direction you're facing.
+[15:46:46 INFO]: /extinguish: Extinguish nearby fire
+[15:46:46 INFO]: /farwand: Wand at a distance tool
+[15:46:46 INFO]: /fcore:
+[15:46:46 INFO]: /feed: Satisfy the hunger.
+[15:46:46 INFO]: /fill: A Mojang provided command.
+[15:46:46 INFO]: /filter: Add or remove programmable filters to the packet listeners.
+[15:46:46 INFO]: /fireball: Throw a fireball or other assorted projectiles.
+[15:46:46 INFO]: /firework: Allows you to modify a stack of fireworks.
+[15:46:46 INFO]: /fixlava: Fix lava to be stationary
+[15:46:46 INFO]: /fixwater: Fix water to be stationary
+[15:46:46 INFO]: /floodfill: Flood fill tool
+[15:46:46 INFO]: /fly: Take off, and soar!
+[15:46:46 INFO]: /forcegrant:
+[15:46:46 INFO]: /forcekick: Kicked the player out of the server
+[15:46:46 INFO]: /forceload: A Mojang provided command.
+[15:46:46 INFO]: /forestgen: Generate a forest
+[15:46:46 INFO]: /friends: Opens the friends menu.
+[15:46:46 INFO]: /function: A Mojang provided command.
+[15:46:46 INFO]: /g: g - Channel command join alias for general
+[15:46:46 INFO]: /gamemode: Change player gamemode.
+[15:46:46 INFO]: /gamerule: A Mojang provided command.
+[15:46:46 INFO]: /gc: Reports memory, uptime and tick info.
+[15:46:46 INFO]: /getpos: Get your current coordinates or those of a player.
+[15:46:46 INFO]: /give: Give a player an item.
+[15:46:46 INFO]: /givepet: Allows a player to give away a pet he or she tamed.
+[15:46:46 INFO]: /gkit: Opens the GKitz GUI.
+[15:46:46 INFO]: /gmask: Set the global mask
+[15:46:46 INFO]: /god: Enables your godly powers.
+[15:46:46 INFO]: /gpblockinfo: Allows an administrator to get technical information about blocks in the world and items in hand.
+[15:46:46 INFO]: /gpreload: Reloads Grief Prevention's configuration settings. Does NOT totally reload the entire plugin.
+[15:46:46 INFO]: /grant:
+[15:46:46 INFO]: /grants:
+[15:46:46 INFO]: /grantx:
+[15:46:46 INFO]: /green: Converts dirt to grass blocks in the area
+[15:46:46 INFO]: /guild: Opens the guilds menu.
+[15:46:46 INFO]: /halt-activity: [confirm] - Attempts to cease as much activity in order to stop lag
+[15:46:46 INFO]: /harbor: Base command for Harbor!
+[15:46:46 INFO]: /hat: Get some cool new headgear.
+[15:46:46 INFO]: /hdiscord:
+[15:46:46 INFO]: /heal: Heals you or the given player.
+[15:46:46 INFO]: /help: Views a list of available commands.
+[15:46:46 INFO]: /helpop: Message online admins.
+[15:46:46 INFO]: /hiberniadiscord:
+[15:46:46 INFO]: /holograms: Main command for HolographicDisplays.
+[15:46:46 INFO]: /home: Teleport to your home.
+[15:46:46 INFO]: /hub: Sends you to the hub server!
+[15:46:46 INFO]: /ignore: Ignore or unignore other players.
+[15:46:46 INFO]: /ignoreclaims: Toggles ignore claims mode.
+[15:46:46 INFO]: /ignoredplayerlist: Lists the players you're ignoring in chat.
+[15:46:46 INFO]: /ignoreplayer: Ignores another player's chat messages.
+[15:46:46 INFO]: /info: Block information tool
+[15:46:46 INFO]: /interpreter: Puts your chat into interpreter mode
+[15:46:46 INFO]: /interpreter-on: Turns on the interpreter for however long is specified in the preferences option "interpreter-timeout". This only does something if run from console.
+[15:46:46 INFO]: /invite:
+[15:46:46 INFO]: /invsee: See the inventory of other players.
+[15:46:46 INFO]: /item: Spawn an item.
+[15:46:46 INFO]: /itemdb: Searches for an item.
+[15:46:46 INFO]: /itemname: Names an item.
+[15:46:46 INFO]: /jails: List all jails.
+[15:46:46 INFO]: /jobs: Jobs
+[15:46:46 INFO]: /jump: Jumps to the nearest block in the line of sight.
+[15:46:46 INFO]: /jumpto: Teleport to a location
+[15:46:46 INFO]: /kick: Kicks a specified player with a reason.
+[15:46:46 INFO]: /kickall: Kicks all players off the server except the issuer.
+[15:46:46 INFO]: /kill: Kills specified player.
+[15:46:46 INFO]: /kit: Obtains the specified kit or views all available kits.
+[15:46:46 INFO]: /kittycannon: Throw an exploding kitten at your opponent.
+[15:46:46 INFO]: /l: l - Channel command join alias for local
+[15:46:46 INFO]: /lagassist: The main command of LagAssist, a Performance Analysis and Optimization Tool.
+[15:46:46 INFO]: /lagg: Clearlag base command!
+[15:46:46 INFO]: /lc: lc - Channel command join alias for local
+[15:46:46 INFO]: /lightning: The power of Thor. Strike at cursor or player.
+[15:46:46 INFO]: /list: List all online players.
+[15:46:46 INFO]: /listchunks: List chunks that your selection includes
+[15:46:46 INFO]: /locate: A Mojang provided command.
+[15:46:46 INFO]: /loot: A Mojang provided command.
+[15:46:46 INFO]: /lrbuild: Long-range building tool
+[15:46:46 INFO]: /luckperms: Manage permissions
+[15:46:46 INFO]: /m: m - Channel command join alias for mod
+[15:46:46 INFO]: /mail: Manages inter-player, intra-server mail.
+[15:46:46 INFO]: /mask: Set the brush mask
+[15:46:46 INFO]: /material: Set the brush material
+[15:46:46 INFO]: /maxrankup: Rankup as much as possible.
+[15:46:46 INFO]: /me: Describes an action in the context of the player.
+[15:46:46 INFO]: /minecraft:ban: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:clear: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:enchant: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:gamemode: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:give: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:help: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:kick: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:kill: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:list: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:lp: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms:lp: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms:luckperms: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms:perm: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms:permission: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms:permissions: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:luckperms:perms: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:me: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:msg: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:pardon: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:perm: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:permission: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:permissions: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:perms: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:recipe: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:reload: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:teleport: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:tell: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:time: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:tp: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:w: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:weather: A Mojang provided command.
+[15:46:46 INFO]: /minecraft:xp: A Mojang provided command.
+[15:46:46 INFO]: /mmocore: Main command.
+[15:46:46 INFO]: /mmoinventory: Opens the custom inventory.
+[15:46:46 INFO]: /mmoitems: MMOItems main command.
+[15:46:46 INFO]: /mod: mod - Channel command join alias for mod
+[15:46:46 INFO]: /more: Fills the item stack in hand to maximum size.
+[15:46:46 INFO]: /motd: Views the Message Of The Day.
+[15:46:46 INFO]: /msg: Sends a private message to the specified player.
+[15:46:46 INFO]: /msgtoggle: Blocks receiving all private messages.
+[15:46:46 INFO]: /mspt: View server tick times
+[15:46:46 INFO]: /mute: Mutes or unmutes a player.
+[15:46:46 INFO]: /mv: Generic Multiverse Command
+[15:46:46 INFO]: /mvc: Display World, Coordinates, Direction & Compression for a world.
+[15:46:46 INFO]: /mvclone: World clone command
+[15:46:46 INFO]: /mvco: Displays the player's coordinates.
+[15:46:46 INFO]: /mvconfirm: Confirms sensitive decisions like deleting a world.
+[15:46:46 INFO]: /mvcoord: Display World, Coordinates, Direction & Compression for a world.
+[15:46:46 INFO]: /mvcreate: World create command
+[15:46:46 INFO]: /mvdebug: Turns on debugging.
+[15:46:46 INFO]: /mvdelete: World delete command
+[15:46:46 INFO]: /mvenv: Tells the user all possible environment types.
+[15:46:46 INFO]: /mvgamerule: Sets a gamerule.
+[15:46:46 INFO]: /mvgamerules: Lists the gamerules.
+[15:46:46 INFO]: /mvgenerators: Displays all found world generators.
+[15:46:46 INFO]: /mvgens: Displays all found world generators.
+[15:46:46 INFO]: /mvh: Displays the Multiverse Help.
+[15:46:46 INFO]: /mvhelp: Displays the Multiverse Help.
+[15:46:46 INFO]: /mvi: Gets world info.
+[15:46:46 INFO]: /mvim: World import command
+[15:46:46 INFO]: /mvimport: World import command
+[15:46:46 INFO]: /mvinfo: Gets world info.
+[15:46:46 INFO]: /mvl: Print list of loaded Worlds
+[15:46:46 INFO]: /mvlist: Print list of loaded Worlds
+[15:46:46 INFO]: /mvload: Loads a world into Multiverse.
+[15:46:46 INFO]: /mvm: Modify the settings of an existing world
+[15:46:46 INFO]: /mvmadd: Modify the settings of an existing world
+[15:46:46 INFO]: /mvmclear: Modify the settings of an existing world
+[15:46:46 INFO]: /mvmodify: Modify the settings of an existing world
+[15:46:46 INFO]: /mvmremove: Modify the settings of an existing world
+[15:46:46 INFO]: /mvmset: Modify the settings of an existing world
+[15:46:46 INFO]: /mvnp: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnpl: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnpli: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnplink: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnplist: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnps: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnpshow: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnpu: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvnpunlink: Generic Multiverse-NetherPortals Command
+[15:46:46 INFO]: /mvp: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpc: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpcreate: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpl: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvplist: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpm: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpmodify: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpms: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpr: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpremove: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvps: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpselect: Generic Multiverse-Portals Command
+[15:46:46 INFO]: /mvpurge: Purge the targetted world of creatures.
+[15:46:46 INFO]: /mvr: Reload Configuration files.
+[15:46:46 INFO]: /mvregen: Regenerates a world Multiverse already knows about.
+[15:46:46 INFO]: /mvreload: Reload Configuration files.
+[15:46:46 INFO]: /mvremove: World remove command
+[15:46:46 INFO]: /mvrule: Sets a gamerule.
+[15:46:46 INFO]: /mvrules: Lists the gamerules.
+[15:46:46 INFO]: /mvs: Teleport to the spawn area
+[15:46:46 INFO]: /mvscript: Runs a script from the Multiverse scripts directory.
+[15:46:46 INFO]: /mvsearch: Displays the Multiverse Help.
+[15:46:46 INFO]: /mvset: Set the spawn area for a particular world
+[15:46:46 INFO]: /mvsetspawn: Set the spawn area for a particular world
+[15:46:46 INFO]: /mvsilent: Reduces startup messages
+[15:46:46 INFO]: /mvspawn: Teleport to the spawn area
+[15:46:46 INFO]: /mvss: Set the spawn area for a particular world
+[15:46:46 INFO]: /mvtp: Command to teleport between Worlds
+[15:46:46 INFO]: /mvunload: World unload command
+[15:46:46 INFO]: /mvv: Prints out version info.
+[15:46:46 INFO]: /mvversion: Prints out version info.
+[15:46:46 INFO]: /mvw: Display online users per world.
+[15:46:46 INFO]: /mvwho: Display online users per world.
+[15:46:46 INFO]: /nation:
+[15:46:46 INFO]: /navwand: Navigation wand tool
+[15:46:46 INFO]: /nc: nc - Channel command join alias for nation
+[15:46:46 INFO]: /near: Lists the players near by or around a player.
+[15:46:46 INFO]: /nick: Change your nickname or that of another player.
+[15:46:46 INFO]: /none: Unbind a bound tool from your current item
+[15:46:46 INFO]: /npc: Basic commands for all NPC-related things
+[15:46:46 INFO]: /npcmd:
+[15:46:46 INFO]: /npcmd add: Adds command to the NPC.
+[15:46:46 INFO]: /npcmd cooldown: Sets the cooldown for the NPC
+[15:46:46 INFO]: /npcmd edit: Edits a command or permission
+[15:46:46 INFO]: /npcmd list: Gets the list of commands
+[15:46:46 INFO]: /npcmd permission: Sets the permission for the NPC
+[15:46:46 INFO]: /npcmd price: Sets the price for the NPC
+[15:46:46 INFO]: /npcmd reload: Reloads config, saves and cooldown
+[15:46:46 INFO]: /npcmd remove: Removes command
+[15:46:46 INFO]: /nuke: May death rain upon them.
+[15:46:46 INFO]: /nvreload: Reloads the NuVotifier configuration
+[15:46:46 INFO]: /op: A Mojang provided command.
+[15:46:46 INFO]: /packet: Add or remove a simple packet listener.
+[15:46:46 INFO]: /packetlog: Logs hex representations of packets to a file or console
+[15:46:46 INFO]: /paper: Paper related commands
+[15:46:46 INFO]: /pardon-ip: A Mojang provided command.
+[15:46:46 INFO]: /particle: A Mojang provided command.
+[15:46:46 INFO]: /party: Opens the party menu.
+[15:46:46 INFO]: /pay: Pays another player from your balance.
+[15:46:46 INFO]: /payconfirmtoggle: Toggles whether you are prompted to confirm payments.
+[15:46:46 INFO]: /paytoggle: Toggles whether you are accepting payments.
+[15:46:46 INFO]: /permissiontrust: Grants a player permission to grant his level of permission to others.
+[15:46:46 INFO]: /pet: Main SimplePets Command/Opens The Pet Selection GUI
+[15:46:46 INFO]: /ping: Pong!
+[15:46:46 INFO]: /placeholderapi: PlaceholderAPI command
+[15:46:46 INFO]: /player: Show player stats.
+[15:46:46 INFO]: /playerwarp:
+[15:46:46 INFO]: /playsound: A Mojang provided command.
+[15:46:46 INFO]: /plot:
+[15:46:46 INFO]: /plugins: Gets a list of plugins running on the server
+[15:46:46 INFO]: /potion: Adds custom potion effects to a potion.
+[15:46:46 INFO]: /powertool: Assigns a command to the item in hand.
+[15:46:46 INFO]: /powertooltoggle: Enables or disables all current powertools.
+[15:46:46 INFO]: /pp: The main PlayerParticles command. By default, opens the GUI.
+[15:46:46 INFO]: /ppo: Allows executing a /pp command for another player.
+[15:46:46 INFO]: /prestige: Prestige.
+[15:46:46 INFO]: /prestiges: List all the prestiges.
+[15:46:46 INFO]: /protocol: Performs administrative tasks regarding ProtocolLib.
+[15:46:46 INFO]: /ptime: Adjust player's client time. Add @ prefix to fix.
+[15:46:46 INFO]: /publish: A Mojang provided command.
+[15:46:46 INFO]: /pumpkins: Generate pumpkin patches
+[15:46:46 INFO]: /pw:
+[15:46:46 INFO]: /pwarp:
+[15:46:46 INFO]: /pweather: Adjust a player's weather
+[15:46:46 INFO]: /qs: QuickShop command
+[15:46:46 INFO]: /quests: Main command
+[15:46:46 INFO]: /r: Quickly reply to the last player to message you.
+[15:46:46 INFO]: /range: Set the brush range
+[15:46:46 INFO]: /ranks: List all the ranks.
+[15:46:46 INFO]: /rankup: Rankup.
+[15:46:46 INFO]: /rankup3: View Rankup version and perform some administrative commands.
+[15:46:46 INFO]: /realname: Displays the username of a user based on nick.
+[15:46:46 INFO]: /recipe: Displays how to craft items.
+[15:46:46 INFO]: /recipes: Opens the recipe book for viewing all custom recipes.
+[15:46:46 INFO]: /redo: Redoes the last action (from history)
+[15:46:46 INFO]: /ref: /Ref <player> (Player has to be online)
+[15:46:46 INFO]: /refaccept: /RefAccept <Player> (Player has to be online)
+[15:46:46 INFO]: /refadmin:
+[15:46:46 INFO]: /refhelp: /RefReload Shows the commands
+[15:46:46 INFO]: /refreject: /RefReject (Player has to be online)
+[15:46:46 INFO]: /refreload: /RefReload reload config
+[15:46:46 INFO]: /reftotal: /RefTotal - For self and /RefTotal <player> (Player has to be online) for other players
+[15:46:46 INFO]: /region: Region management commands
+[15:46:46 INFO]: /reload: Reloads the server configuration and plugins
+[15:46:46 INFO]: /reloadaliases: Reloads aliases
+[15:46:46 INFO]: /remove: Remove all entities of a type
+[15:46:46 INFO]: /removeabove: Remove blocks above your head.
+[15:46:46 INFO]: /removebelow: Remove blocks below you.
+[15:46:46 INFO]: /removenear: Remove blocks near you.
+[15:46:46 INFO]: /repair: Repairs the durability of one or all items.
+[15:46:46 INFO]: /repl: Block replacer tool
+[15:46:46 INFO]: /replaceitem: A Mojang provided command.
+[15:46:46 INFO]: /replacenear: Replace nearby blocks
+[15:46:46 INFO]: /report:
+[15:46:46 INFO]: /resident:
+[15:46:46 INFO]: /rest: Rests you or the given player.
+[15:46:46 INFO]: /restart: Restarts the server
+[15:46:46 INFO]: /restore: Restore the selection from a snapshot
+[15:46:46 INFO]: /restorenature: Switches the shovel tool to restoration mode.
+[15:46:46 INFO]: /restorenatureaggressive: Switches the shovel tool to aggressive restoration mode.
+[15:46:46 INFO]: /restorenaturefill: Switches the shovel tool to fill mode.
+[15:46:46 INFO]: /restrictsubclaim: Restricts a subclaim, so that it inherits no permissions from the parent claim
+[15:46:46 INFO]: /rtoggle: Change whether the recipient of the reply is last recipient or last sender
+[15:46:46 INFO]: /rules: Views the server rules.
+[15:46:46 INFO]: /runalias: If another plugin wants to run a CommandHelper command, it isn't always straightforward to do that, because of the way bukkit works. To get around this, you may use this command. "/runalias /command to run" will fire off the alias "/command to run"
+[15:46:46 INFO]: /save-all: A Mojang provided command.
+[15:46:46 INFO]: /save-off: A Mojang provided command.
+[15:46:46 INFO]: /save-on: A Mojang provided command.
+[15:46:46 INFO]: /say: A Mojang provided command.
+[15:46:46 INFO]: /sc: Talk to staff!
+[15:46:46 INFO]: /schedule: A Mojang provided command.
+[15:46:46 INFO]: /schematic: Schematic commands for saving/loading areas
+[15:46:46 INFO]: /scoreboard: A Mojang provided command.
+[15:46:46 INFO]: /screload: Reload the StaffChat config
+[15:46:46 INFO]: /sctoggle: Toggle StaffChat;
+[15:46:46 INFO]: /searchitem: Search for an item
+[15:46:46 INFO]: /seed: A Mojang provided command.
+[15:46:46 INFO]: /seen: Shows the last logout time of a player.
+[15:46:46 INFO]: /sell: Sell
+[15:46:46 INFO]: /sellclaimblocks: Sells your claim blocks for server money. Doesn't work on servers without a Vault-compatible economy plugin.
+[15:46:46 INFO]: /sellstick: Sell all items in a chest easily!
+[15:46:46 INFO]: /selwand: Selection wand tool
+[15:46:46 INFO]: /sendplayer: Send the player to another server.
+[15:46:46 INFO]: /separate: Forces two players to ignore each other in chat.
+[15:46:46 INFO]: /setaccruedclaimblocks: Updates a player's accrued claim block total.
+[15:46:46 INFO]: /setblock: A Mojang provided command.
+[15:46:46 INFO]: /sethome: Set your home to your current location.
+[15:46:46 INFO]: /setidletimeout: A Mojang provided command.
+[15:46:46 INFO]: /setjail: Creates a jail where you specified named [jailname].
+[15:46:46 INFO]: /setspawn: Sets the spawn point to your current position.
+[15:46:46 INFO]: /setwarp: Creates a new warp.
+[15:46:46 INFO]: /setworldspawn: A Mojang provided command.
+[15:46:46 INFO]: /setworth: Set the sell value of an item.
+[15:46:46 INFO]: /shop: Shop
+[15:46:46 INFO]: /showkit: Show contents of a kit.
+[15:46:46 INFO]: /shutdown: Sends everyone to the hub server and shutdown the server.
+[15:46:46 INFO]: /siege: Initiates a siege versus another player.
+[15:46:46 INFO]: /size: Set the brush size
+[15:46:46 INFO]: /skills: Opens the skills menu.
+[15:46:46 INFO]: /skull: Set the owner of a player skull
+[15:46:46 INFO]: /snapshot: Snapshot commands for restoring backups
+[15:46:46 INFO]: /snow: Simulates snow
+[15:46:46 INFO]: /socialspy: Toggles if you can see msg/mail commands in chat.
+[15:46:46 INFO]: /softmute: Toggles whether a player's messages will only reach other soft-muted players.
+[15:46:46 INFO]: /spawn: Teleports to the spawn point.
+[15:46:46 INFO]: /spawner: Change the mob type of a spawner.
+[15:46:46 INFO]: /spawnershop: I have no idea.
+[15:46:46 INFO]: /spawnerstats: I have no idea.
+[15:46:46 INFO]: /spawnmob: Spawns a mob.
+[15:46:46 INFO]: /spawnpoint: A Mojang provided command.
+[15:46:46 INFO]: /spectate: A Mojang provided command.
+[15:46:46 INFO]: /speed: Change your speed limits.
+[15:46:46 INFO]: /spigot: Spigot related commands
+[15:46:46 INFO]: /spreadplayers: A Mojang provided command.
+[15:46:46 INFO]: /stop: A Mojang provided command.
+[15:46:46 INFO]: /stopfire: [<world>] - Disables all fire spread temporarily
+[15:46:46 INFO]: /stopsound: A Mojang provided command.
+[15:46:46 INFO]: /subdivideclaims: Switches the shovel tool to subdivision mode, used to subdivide your claims.
+[15:46:46 INFO]: /sudo: Make another user perform a command.
+[15:46:46 INFO]: /suicide: Causes you to perish.
+[15:46:46 INFO]: /summon: A Mojang provided command.
+[15:46:46 INFO]: /superpickaxe: Super-pickaxe commands
+[15:46:46 INFO]: /sv: SuperVanish's main command
+[15:46:46 INFO]: /tab:
+[15:46:46 INFO]: /tag: A Mojang provided command.
+[15:46:46 INFO]: /tc: tc - Channel command join alias for town
+[15:46:46 INFO]: /team: A Mojang provided command.
+[15:46:46 INFO]: /teammsg: A Mojang provided command.
+[15:46:46 INFO]: /tebex: Main command for the Tebex plugin.
+[15:46:46 INFO]: /tellraw: A Mojang provided command.
+[15:46:46 INFO]: /tempban: Temporary ban a user.
+[15:46:46 INFO]: /template: Template commands
+[15:46:46 INFO]: /testvote: Sends a test vote to the server
+[15:46:46 INFO]: /thaw: Thaws the area
+[15:46:46 INFO]: /thru: Pass through walls
+[15:46:46 INFO]: /thunder: Enable/disable thunder.
+[15:46:46 INFO]: /time: Display/Change the world time. Defaults to current world.
+[15:46:46 INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[15:46:46 INFO]: /tinkerer: Opens the Tinker GUI.
+[15:46:46 INFO]: /title: A Mojang provided command.
+[15:46:46 INFO]: /tm: A Mojang provided command.
+[15:46:46 INFO]: /toggleeditwand: Remind the user that the wand is now a tool and can be unbound with /none.
+[15:46:46 INFO]: /togglejail: Jails/Unjails a player, TPs them to the jail specified.
+[15:46:46 INFO]: /toggleplace: Switch between your position and pos1 for placement
+[15:46:46 INFO]: /tool: Binds a tool to the item in your hand
+[15:46:46 INFO]: /top: Teleport to the highest block at your current position.
+[15:46:46 INFO]: /town:
+[15:46:46 INFO]: /towny:
+[15:46:46 INFO]: /towny:ac: ac - Channel command join alias for alliance
+[15:46:46 INFO]: /towny:confirm: Confirm command for Towny
+[15:46:46 INFO]: /townyadmin:
+[15:46:46 INFO]: /townychat:
+[15:46:46 INFO]: /townyworld:
+[15:46:46 INFO]: /tp: Teleport to a player.
+[15:46:46 INFO]: /tpa: Request to teleport to the specified player.
+[15:46:46 INFO]: /tpaall: Requests all players online to teleport to you.
+[15:46:46 INFO]: /tpacancel: Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.
+[15:46:46 INFO]: /tpaccept: Accepts a teleport request.
+[15:46:46 INFO]: /tpahere: Request that the specified player teleport to you.
+[15:46:46 INFO]: /tpall: Teleport all online players to another player.
+[15:46:46 INFO]: /tpauto: Automatically accept teleportation requests.
+[15:46:46 INFO]: /tpdeny: Reject a teleport request.
+[15:46:46 INFO]: /tphere: Teleport a player to you.
+[15:46:46 INFO]: /tpo: Teleport override for tptoggle.
+[15:46:46 INFO]: /tpoffline: Teleport to a player's last known logout location
+[15:46:46 INFO]: /tpohere: Teleport here override for tptoggle.
+[15:46:46 INFO]: /tppos: Teleport to coordinates.
+[15:46:46 INFO]: /tps: Gets the current ticks per second for the server
+[15:46:46 INFO]: /tptoggle: Blocks all forms of teleportation.
+[15:46:46 INFO]: /tracemask: Set the mask used to stop tool traces
+[15:46:46 INFO]: /trait: Trait commands
+[15:46:46 INFO]: /traitc: Configures traits
+[15:46:46 INFO]: /transferclaim: Converts an administrative claim to a private claim.
+[15:46:46 INFO]: /trapped: Ejects you to nearby unclaimed land. Has a substantial cooldown period.
+[15:46:46 INFO]: /tree: Tree generator tool
+[15:46:46 INFO]: /trigger: A Mojang provided command.
+[15:46:46 INFO]: /trust: Grants a player full access to your claim(s).
+[15:46:46 INFO]: /trustlist: Lists permissions for the claim you're standing in.
+[15:46:46 INFO]: /ultimaterepairing: View information on this plugin.
+[15:46:46 INFO]: /unban: Unbans the specified player.
+[15:46:46 INFO]: /unbanip: Unbans the specified IP address.
+[15:46:46 INFO]: /undo: Undoes the last action (from history)
+[15:46:46 INFO]: /unignoreplayer: Unignores another player's chat messages.
+[15:46:46 INFO]: /unlimited: Allows the unlimited placing of items.
+[15:46:46 INFO]: /unlockdrops: Allows other players to pick up the items you dropped when you died.
+[15:46:46 INFO]: /unseparate: Reverses /separate.
+[15:46:46 INFO]: /unstuck: Escape from being stuck inside a block
+[15:46:46 INFO]: /untrust: Revokes a player's access to your claim(s).
+[15:46:46 INFO]: /up: Go upwards some distance
+[15:46:46 INFO]: /updateitem: Update the item you are holding.
+[15:46:46 INFO]: /uranvil: View information on this plugin.
+[15:46:46 INFO]: /us: Reloads the configuration file
+[15:46:46 INFO]: /vanish: Hide yourself from other players.
+[15:46:46 INFO]: /varlight: The Varlight root command
+[15:46:46 INFO]: /vault-convert: Converts all data in economy1 and dumps it into economy2
+[15:46:46 INFO]: /vault-info: Displays information about Vault
+[15:46:46 INFO]: /version: Gets the version of this server including any plugins in use
+[15:46:46 INFO]: /viewdisplay: See what item a player is displaying
+[15:46:46 INFO]: /voidchest: The main command for voidchest.
+[15:46:46 INFO]: /vote: Vote command
+[15:46:46 INFO]: /vote?: View Help
+[15:46:46 INFO]: /voteall: A command
+[15:46:46 INFO]: /votebest: A command
+[15:46:46 INFO]: /votechoices: A command
+[15:46:46 INFO]: /votegivepoints: A command
+[15:46:46 INFO]: /votegui: Open VoteGUI
+[15:46:46 INFO]: /votehelp: See access to a list of commands, Formated in Format.yml
+[15:46:46 INFO]: /votelast: See the last time you voted
+[15:46:46 INFO]: /votelist: A command
+[15:46:46 INFO]: /votenext: See when you can vote next
+[15:46:46 INFO]: /voteparty: A command
+[15:46:46 INFO]: /votepoints: A command
+[15:46:46 INFO]: /votereward: Open VoteReward GUI
+[15:46:46 INFO]: /voteshop: A command
+[15:46:46 INFO]: /votestreak: A command
+[15:46:46 INFO]: /votetoday: See who voted today
+[15:46:46 INFO]: /votetogglebroadcast: A command
+[15:46:46 INFO]: /votetop: See top voters
+[15:46:46 INFO]: /votetotal: See totals of votes
+[15:46:46 INFO]: /voteurl: Open VoteURL
+[15:46:46 INFO]: /votingpluginvaluerequestinput: ValueRequestInput
+[15:46:46 INFO]: /wac: Shows if WAC is working and which version it is running
+[15:46:46 INFO]: /wacinfo: Shows the current violation count of a player for each check
+[15:46:46 INFO]: /wacnotify: Toggles notifications from WAC about detections
+[15:46:46 INFO]: /wacreload: Reloads WAC and reads changes made to the config
+[15:46:46 INFO]: /warp: List all warps or warp to the specified location.
+[15:46:46 INFO]: /waypoint: Waypoint commands
+[15:46:46 INFO]: /waypoints: Open the waypoints menu.
+[15:46:46 INFO]: /weather: Sets the weather.
+[15:46:46 INFO]: /whitelist: A Mojang provided command.
+[15:46:46 INFO]: /whois: Determine the username behind a nickname.
+[15:46:46 INFO]: /wild:
+[15:46:46 INFO]: /withdraw: Creates a withdraw request.
+[15:46:46 INFO]: /workbench: Opens up a workbench.
+[15:46:46 INFO]: /world: Switch between worlds.
+[15:46:46 INFO]: /worldborder: A Mojang provided command.
+[15:46:46 INFO]: /worldedit: WorldEdit commands
+[15:46:46 INFO]: /worldguard: WorldGuard commands
+[15:46:46 INFO]: /worth: Calculates the worth of items in hand or as specified.
